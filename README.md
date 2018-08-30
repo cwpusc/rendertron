@@ -12,7 +12,7 @@ standalone HTTP server. Rendertron renders requested pages using Headless Chrome
 [auto-detecting](#auto-detecting-loading-function) when your PWA has completed loading
 and serializes the response back to the original request. To use Rendertron, your application
 configures [middleware](#middleware) to determine whether to proxy a request to Rendertron.
-Rendertron is compatible with all client side technologies, including [web components](#web-components).
+Rendertron is compatible with all client side technologies, including [web components](#web-components)
 
 **Demo endpoint**
 
